@@ -1,3 +1,3 @@
 # This is a HEADER!
 ### This is a SUBHEADER!
-! [Image of cronut] (https://images.food52.com/vmfuk4AYlp1T_uHUnHmK1eus4Kg=/1200x1200/e1f6cfb2-3e1f-4664-8f9f-678b06efb2ad--9134388679_9855e07515_z.jpg)
+<img src="https://images.food52.com/vmfuk4AYlp1T_uHUnHmK1eus4Kg=/1200x1200/e1f6cfb2-3e1f-4664-8f9f-678b06efb2ad--9134388679_9855e07515_z.jpg" alt="Image of a classic cronut">
